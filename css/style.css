@@ -180,7 +180,7 @@ a {
 
 .social a {
     align-items: center;
-    background-color: black;
+    background-color: #000;
     display: flex;
     font-size: 1.5rem;
     height: 2rem;
